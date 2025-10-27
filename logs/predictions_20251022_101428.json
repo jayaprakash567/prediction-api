@@ -1,0 +1,145 @@
+[
+    {
+        "datetime": "2025-10-21T06:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.012820513,
+            "Zone Intrusion": 0.005319149
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.575620"
+    },
+    {
+        "datetime": "2025-10-21T07:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.023255814,
+            "Zone Intrusion": 0.007633588
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.579835"
+    },
+    {
+        "datetime": "2025-10-21T08:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.024390244,
+            "Zone Intrusion": 0.007936508
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.584182"
+    },
+    {
+        "datetime": "2025-10-21T09:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.007518797
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.587049"
+    },
+    {
+        "datetime": "2025-10-21T10:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.005154639
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.590881"
+    },
+    {
+        "datetime": "2025-10-21T11:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.001545595
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.595444"
+    },
+    {
+        "datetime": "2025-10-21T12:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.021276596,
+            "Zone Intrusion": 0.004694836
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.598803"
+    },
+    {
+        "datetime": "2025-10-21T13:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.017241379,
+            "Zone Intrusion": 0.005208333
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.602420"
+    },
+    {
+        "datetime": "2025-10-21T14:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.033333333,
+            "Zone Intrusion": 0.002724796
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.606031"
+    },
+    {
+        "datetime": "2025-10-21T15:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.020408163,
+            "Zone Intrusion": 0.007407407
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.609666"
+    },
+    {
+        "datetime": "2025-10-21T16:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0125,
+            "Zone Intrusion": 0.004405286
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.612793"
+    },
+    {
+        "datetime": "2025-10-21T17:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.002985075
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.616629"
+    },
+    {
+        "datetime": "2025-10-21T18:00:00",
+        "location": "Billet Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.045454545,
+            "Zone Intrusion": 0.009803922
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:14:28.620635"
+    }
+]

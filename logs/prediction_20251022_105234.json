@@ -1,0 +1,13 @@
+[
+    {
+        "datetime": "2025-10-23T20:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.015761,
+            "Helmet Not Detected": 0.090909091,
+            "Zone Intrusion": 0.018867925
+        },
+        "status": "avg_used",
+        "timestamp": "2025-10-22T10:52:34.603055"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "datetime": "2025-10-30T00:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.04
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.537814"
+    },
+    {
+        "datetime": "2025-10-30T01:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.043478261,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.551969"
+    },
+    {
+        "datetime": "2025-10-30T02:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.02173913
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.559658"
+    },
+    {
+        "datetime": "2025-10-30T03:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.023809524
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.563850"
+    },
+    {
+        "datetime": "2025-10-30T04:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.567523"
+    },
+    {
+        "datetime": "2025-10-30T05:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.004739336
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.571191"
+    },
+    {
+        "datetime": "2025-10-30T06:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.078947368,
+            "Zone Intrusion": 0.00625
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.574851"
+    },
+    {
+        "datetime": "2025-10-30T07:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.023809524,
+            "Zone Intrusion": 0.00990099
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.578240"
+    },
+    {
+        "datetime": "2025-10-30T08:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.195121951,
+            "Zone Intrusion": 0.004926108
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.581712"
+    },
+    {
+        "datetime": "2025-10-30T09:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.142857143,
+            "Zone Intrusion": 0.004716981
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.584258"
+    },
+    {
+        "datetime": "2025-10-30T10:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.236842105,
+            "Zone Intrusion": 0.009090909
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.587113"
+    },
+    {
+        "datetime": "2025-10-30T11:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.121212121,
+            "Zone Intrusion": 0.005494505
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.590364"
+    },
+    {
+        "datetime": "2025-10-30T12:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.121212121,
+            "Zone Intrusion": 0.006756757
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.593939"
+    },
+    {
+        "datetime": "2025-10-30T13:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.085714286,
+            "Zone Intrusion": 0.006451613
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.597313"
+    },
+    {
+        "datetime": "2025-10-30T14:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.559322034,
+            "Zone Intrusion": 0.002150538
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.600700"
+    },
+    {
+        "datetime": "2025-10-30T15:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.129032258,
+            "Zone Intrusion": 0.003703704
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.603410"
+    },
+    {
+        "datetime": "2025-10-30T16:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.089552239,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.606696"
+    },
+    {
+        "datetime": "2025-10-30T17:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.384615385,
+            "Zone Intrusion": 0.002645503
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.610586"
+    },
+    {
+        "datetime": "2025-10-30T18:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.307692308,
+            "Zone Intrusion": 0.007407407
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.612300"
+    },
+    {
+        "datetime": "2025-10-30T19:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.102040816,
+            "Zone Intrusion": 0.013157895
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.614626"
+    },
+    {
+        "datetime": "2025-10-30T20:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.090909091,
+            "Zone Intrusion": 0.018867925
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.617761"
+    },
+    {
+        "datetime": "2025-10-30T21:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.009433962
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.621483"
+    },
+    {
+        "datetime": "2025-10-30T22:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.064516129,
+            "Zone Intrusion": 0.010204082
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.624823"
+    },
+    {
+        "datetime": "2025-10-30T23:00:00",
+        "location": "SBL Loading",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.045454545,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:16:20.627123"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "datetime": "2025-10-23T00:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.04
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.070585"
+    },
+    {
+        "datetime": "2025-10-23T01:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.043478261,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.074847"
+    },
+    {
+        "datetime": "2025-10-23T02:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.02173913
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.079404"
+    },
+    {
+        "datetime": "2025-10-23T03:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.023809524
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.083755"
+    },
+    {
+        "datetime": "2025-10-23T04:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.088195"
+    },
+    {
+        "datetime": "2025-10-23T05:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.004739336
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.092547"
+    },
+    {
+        "datetime": "2025-10-23T06:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.026315789,
+            "Zone Intrusion": 0.00625
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.096694"
+    },
+    {
+        "datetime": "2025-10-23T07:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.023809524,
+            "Zone Intrusion": 0.00990099
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.099145"
+    },
+    {
+        "datetime": "2025-10-23T08:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.024390244,
+            "Zone Intrusion": 0.004926108
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.101731"
+    },
+    {
+        "datetime": "2025-10-23T09:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.035714286,
+            "Zone Intrusion": 0.004716981
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.104056"
+    },
+    {
+        "datetime": "2025-10-23T10:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.026315789,
+            "Zone Intrusion": 0.009090909
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.106468"
+    },
+    {
+        "datetime": "2025-10-23T11:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.015151515,
+            "Zone Intrusion": 0.005494505
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.110697"
+    },
+    {
+        "datetime": "2025-10-23T12:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.03030303,
+            "Zone Intrusion": 0.006756757
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.114429"
+    },
+    {
+        "datetime": "2025-10-23T13:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.028571429,
+            "Zone Intrusion": 0.006451613
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.118554"
+    },
+    {
+        "datetime": "2025-10-23T14:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.016949153,
+            "Zone Intrusion": 0.002150538
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.122748"
+    },
+    {
+        "datetime": "2025-10-23T15:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.032258065,
+            "Zone Intrusion": 0.003703704
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.125271"
+    },
+    {
+        "datetime": "2025-10-23T16:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.014925373,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.129244"
+    },
+    {
+        "datetime": "2025-10-23T17:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.025641026,
+            "Zone Intrusion": 0.002645503
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.133160"
+    },
+    {
+        "datetime": "2025-10-23T18:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.025641026,
+            "Zone Intrusion": 0.007407407
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.137079"
+    },
+    {
+        "datetime": "2025-10-23T19:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.020408163,
+            "Zone Intrusion": 0.013157895
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.139985"
+    },
+    {
+        "datetime": "2025-10-23T20:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.045454545,
+            "Zone Intrusion": 0.018867925
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.142306"
+    },
+    {
+        "datetime": "2025-10-23T21:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.009433962
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.145759"
+    },
+    {
+        "datetime": "2025-10-23T22:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.032258065,
+            "Zone Intrusion": 0.010204082
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.149535"
+    },
+    {
+        "datetime": "2025-10-23T23:00:00",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.045454545,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:25:19.153355"
+    }
+]

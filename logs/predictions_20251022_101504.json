@@ -1,0 +1,541 @@
+[
+    {
+        "datetime": "2025-10-22T00:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.037037037
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.883392"
+    },
+    {
+        "datetime": "2025-10-22T01:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.028571429
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.904303"
+    },
+    {
+        "datetime": "2025-10-22T02:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.0
+        },
+        "status": "no_match_found",
+        "timestamp": "2025-10-22T10:15:03.905847"
+    },
+    {
+        "datetime": "2025-10-22T03:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.047619048,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.909988"
+    },
+    {
+        "datetime": "2025-10-22T04:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.0
+        },
+        "status": "no_match_found",
+        "timestamp": "2025-10-22T10:15:03.911042"
+    },
+    {
+        "datetime": "2025-10-22T05:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.097560976,
+            "Zone Intrusion": 0.017241379
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.914138"
+    },
+    {
+        "datetime": "2025-10-22T06:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.115384615,
+            "Zone Intrusion": 0.006329114
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.917402"
+    },
+    {
+        "datetime": "2025-10-22T07:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.012820513,
+            "Zone Intrusion": 0.027027027
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.920967"
+    },
+    {
+        "datetime": "2025-10-22T08:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.026315789,
+            "Zone Intrusion": 0.006410256
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.924599"
+    },
+    {
+        "datetime": "2025-10-22T09:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.025641026,
+            "Zone Intrusion": 0.010752688
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.927860"
+    },
+    {
+        "datetime": "2025-10-22T10:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.1,
+            "Zone Intrusion": 0.021276596
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.930040"
+    },
+    {
+        "datetime": "2025-10-22T11:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.045454545,
+            "Zone Intrusion": 0.001386963
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.932196"
+    },
+    {
+        "datetime": "2025-10-22T12:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.066666667,
+            "Zone Intrusion": 0.001754386
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.934456"
+    },
+    {
+        "datetime": "2025-10-22T13:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.034482759,
+            "Zone Intrusion": 0.004385965
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.936684"
+    },
+    {
+        "datetime": "2025-10-22T14:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.005208333
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.938783"
+    },
+    {
+        "datetime": "2025-10-22T15:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.023809524,
+            "Zone Intrusion": 0.01010101
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.940979"
+    },
+    {
+        "datetime": "2025-10-22T16:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.028571429,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.943845"
+    },
+    {
+        "datetime": "2025-10-22T17:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.032258065,
+            "Zone Intrusion": 0.00295858
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.947071"
+    },
+    {
+        "datetime": "2025-10-22T18:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.025,
+            "Zone Intrusion": 0.011764706
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.950467"
+    },
+    {
+        "datetime": "2025-10-22T19:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.035714286,
+            "Zone Intrusion": 0.013888889
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.954054"
+    },
+    {
+        "datetime": "2025-10-22T20:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.086956522,
+            "Zone Intrusion": 0.016949153
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.957862"
+    },
+    {
+        "datetime": "2025-10-22T21:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.038461538,
+            "Zone Intrusion": 0.003344482
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.960629"
+    },
+    {
+        "datetime": "2025-10-22T22:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.043478261,
+            "Zone Intrusion": 0.010416667
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.962683"
+    },
+    {
+        "datetime": "2025-10-22T23:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.01754386
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.964934"
+    },
+    {
+        "datetime": "2025-10-23T00:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.04
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.966704"
+    },
+    {
+        "datetime": "2025-10-23T01:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.043478261,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.969123"
+    },
+    {
+        "datetime": "2025-10-23T02:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.041666667,
+            "Zone Intrusion": 0.02173913
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.971453"
+    },
+    {
+        "datetime": "2025-10-23T03:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.023809524
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.975052"
+    },
+    {
+        "datetime": "2025-10-23T04:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.978659"
+    },
+    {
+        "datetime": "2025-10-23T05:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.08,
+            "Zone Intrusion": 0.004739336
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.981436"
+    },
+    {
+        "datetime": "2025-10-23T06:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.131578947,
+            "Zone Intrusion": 0.00625
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.985112"
+    },
+    {
+        "datetime": "2025-10-23T07:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.19047619,
+            "Zone Intrusion": 0.00990099
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.988600"
+    },
+    {
+        "datetime": "2025-10-23T08:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.195121951,
+            "Zone Intrusion": 0.004926108
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.991986"
+    },
+    {
+        "datetime": "2025-10-23T09:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.035714286,
+            "Zone Intrusion": 0.004716981
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.994704"
+    },
+    {
+        "datetime": "2025-10-23T10:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.026315789,
+            "Zone Intrusion": 0.009090909
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:03.997486"
+    },
+    {
+        "datetime": "2025-10-23T11:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.015151515,
+            "Zone Intrusion": 0.005494505
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.000975"
+    },
+    {
+        "datetime": "2025-10-23T12:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.03030303,
+            "Zone Intrusion": 0.006756757
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.003970"
+    },
+    {
+        "datetime": "2025-10-23T13:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.028571429,
+            "Zone Intrusion": 0.006451613
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.006260"
+    },
+    {
+        "datetime": "2025-10-23T14:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.016949153,
+            "Zone Intrusion": 0.002150538
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.008812"
+    },
+    {
+        "datetime": "2025-10-23T15:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.032258065,
+            "Zone Intrusion": 0.003703704
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.012614"
+    },
+    {
+        "datetime": "2025-10-23T16:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.029850746,
+            "Zone Intrusion": 0.011111111
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.015112"
+    },
+    {
+        "datetime": "2025-10-23T17:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.051282051,
+            "Zone Intrusion": 0.002645503
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.017328"
+    },
+    {
+        "datetime": "2025-10-23T18:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.025641026,
+            "Zone Intrusion": 0.007407407
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.019405"
+    },
+    {
+        "datetime": "2025-10-23T19:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.020408163,
+            "Zone Intrusion": 0.013157895
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.021427"
+    },
+    {
+        "datetime": "2025-10-23T20:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.090909091,
+            "Zone Intrusion": 0.018867925
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.023583"
+    },
+    {
+        "datetime": "2025-10-23T21:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.009433962
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.026321"
+    },
+    {
+        "datetime": "2025-10-23T22:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.064516129,
+            "Zone Intrusion": 0.010204082
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.029455"
+    },
+    {
+        "datetime": "2025-10-23T23:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.136363636,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.032873"
+    },
+    {
+        "datetime": "2025-10-24T00:00:00",
+        "location": "Coil Yard",
+        "predictions": {
+            "Camera Fault": 0.014285714,
+            "Helmet Not Detected": 0.037037037,
+            "Zone Intrusion": 0.00952381
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-22T10:15:04.035099"
+    }
+]

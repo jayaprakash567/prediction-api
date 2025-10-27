@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2025-10-18",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.008196721,
+            "Helmet Not Detected": 0.142857143,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-21T12:37:17.778009"
+    },
+    {
+        "date": "2025-10-19",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.0
+        },
+        "status": "no_match_found",
+        "timestamp": "2025-10-21T12:37:17.779792"
+    },
+    {
+        "date": "2025-10-20",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.0,
+            "Zone Intrusion": 0.0
+        },
+        "status": "no_match_found",
+        "timestamp": "2025-10-21T12:37:17.780736"
+    },
+    {
+        "date": "2025-10-21",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.04,
+            "Zone Intrusion": 0.007042254
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-21T12:37:17.786185"
+    },
+    {
+        "date": "2025-10-22",
+        "location": "Finishing Stand",
+        "predictions": {
+            "Camera Fault": 0.0,
+            "Helmet Not Detected": 0.047619048,
+            "Zone Intrusion": 0.0
+        },
+        "status": "match_found",
+        "timestamp": "2025-10-21T12:37:17.788952"
+    }
+]
